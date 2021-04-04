@@ -17,7 +17,7 @@ Please include information that uniquely identifies the library, as popular libr
 | rc-switch    |         | https://github.com/sui77/rc-switch  (TX mode)         |                 Compiles and works   | A surprise. I don't expect RX will work |
 | FAB-LED      |         | https://github.com/sonyhome/FAB_LED                   |        Does not work, my fork does   | No response to my PR :-/ WS2812 w/out buffer  |
 | ~Servo~      |         | ~From library manager~ (the one included works fine)  |                      Compile error   | Use Servo_megaTinyCore if installed Servo via lib. mgr. |
-|              |         |                                                       |                                      |                            |
+|    RFM69     |   1.4.2 |  https://github.com/LowPowerLab/RFM69                 |     Compiles and works               |                            |
 |              |         |                                                       |                                      |                            |
 |              |         |                                                       |                                      |                            |
 |              |         |                                                       |                                      |                            |
